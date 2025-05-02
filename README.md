@@ -51,7 +51,7 @@ Social media is a powerful but vulnerable platform where false information sprea
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 1. Clone the repository:
 git clone https://github.com/Leelapathivada1/Majorproject
